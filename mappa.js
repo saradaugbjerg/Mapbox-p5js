@@ -1775,8 +1775,8 @@
 
           var _this = _possibleConstructorReturn(this, (MapboxGL.__proto__ || Object.getPrototypeOf(MapboxGL)).call(this, options));
 
-          _this.scriptSrc = 'https://api.tiles.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js';
-          _this.styleSrc = 'https://api.tiles.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css'
+          _this.scriptSrc = 'https://api.tiles.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.js';
+          _this.styleSrc = 'https://api.tiles.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.css'
           _this.ready = false;
           if (!_this.options.key) {
             MapboxGL.messages().key();
